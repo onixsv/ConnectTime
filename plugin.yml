@@ -1,0 +1,12 @@
+name: ConnectTime
+author: alvin0319
+main: ConnectTime\ConnectTime
+version: 1.0.0
+api: 4.0.0
+
+depend:
+  - AFK
+
+commands:
+  접속시간:
+    description: 접속시간 명령어입니다.
